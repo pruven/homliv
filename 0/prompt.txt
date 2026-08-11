@@ -1,0 +1,1 @@
+run pnpm dlx shadcn@latest init -t next -c apps/docs and fix errors while running this command, tips: tailwind is not installed on @apps/docs and rename docs to crm
