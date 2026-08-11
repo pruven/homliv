@@ -1,0 +1,1 @@
+Use [arc-reveal-hero.tsx](apps/web/components/ruixen/arc-reveal-hero.tsx) In apple welcome style on web when user first appears
