@@ -63,7 +63,7 @@ type Phase = "intro" | "reveal" | "done";
 
 export function ArcRevealHero({
   greetings = DEFAULT_GREETINGS,
-  greetingHold = 620,
+  greetingHold = 1200,
   revealDuration = 1500,
   className,
   introClassName,
